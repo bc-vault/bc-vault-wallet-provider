@@ -1,6 +1,6 @@
 'use strict';
 
-const bc = require('bc-vault-js');
+const bc = require('bc-vault-js/build/module/index');
 const HookedWalletSubprovider = require('web3-provider-engine/subproviders/hooked-wallet.js')
 
 class BCProvider extends HookedWalletSubprovider{
