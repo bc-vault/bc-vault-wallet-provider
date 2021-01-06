@@ -1,6 +1,6 @@
 {
   "name": "bc-vault-wallet-provider",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "BC Vault provider for metamask",
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,10 @@
   "author": "BC Vault",
   "license": "MIT",
   "dependencies": {
-    "bc-vault-js": "^2.0.0"
+    "bc-vault-js": "^2.0.5"
   },
   "peerDependencies": {
-	  "web3-provider-engine":">14.1.0"
+    "web3-provider-engine": ">14.1.0"
   },
   "devDependencies": {}
 }
