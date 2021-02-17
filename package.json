@@ -18,7 +18,7 @@
   "author": "BC Vault",
   "license": "MIT",
   "dependencies": {
-    "bc-vault-js": "^2.0.5"
+    "bc-vault-js": "^2.1.0"
   },
   "peerDependencies": {
     "web3-provider-engine": ">14.1.0"
