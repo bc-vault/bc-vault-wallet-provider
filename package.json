@@ -1,6 +1,6 @@
 {
   "name": "bc-vault-wallet-provider",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "BC Vault provider for metamask",
   "main": "index.js",
   "scripts": {
